@@ -1,0 +1,9 @@
+{
+  "Header":{
+    "MsgType":"Ping",
+    "Device":"FSIP",
+    "FromMAC":"b8:27:eb:ca:90:06",
+    "ToMAC":"*"
+  },
+  "Data":{}
+}
